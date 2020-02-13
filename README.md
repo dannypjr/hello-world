@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Daniel here, I'm new to programing.(noob)
+Hi I,m Daniel, I'm new to programing.(noob)
